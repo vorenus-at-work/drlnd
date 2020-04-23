@@ -9,12 +9,12 @@ To set up your python environment to run the code in this repository, follow the
 	- __Linux__ or __Mac__: 
 	```bash
 	conda create --name drlnd python=3.6
-	source activate drlnd
+	conda activate drlnd
 	```
 	- __Windows__: 
 	```bash
 	conda create --name drlnd python=3.6 
-	activate drlnd
+	conda activate drlnd
 	```
 	
 2. Follow the instructions in [this repository](https://github.com/openai/gym) to perform a minimal install of OpenAI gym.  
