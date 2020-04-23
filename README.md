@@ -46,12 +46,12 @@ python -m ipykernel install --user --name drlnd --display-name "drlnd"
 For this project, we train an agent to navigate and collect bananas in a large, square world using Deep Q-Network (DQN).
 
 ### Continuous Control
->[p2_Continuous Control](https://github.com/wschacha/Courses/tree/master/Udacity/Deep_Reinforcement_Learning_Nanodegree/p2_continuous-control)
+>[p2_Continuous Control](https://github.com/helsinkipirate/drlnd_vorenus/tree/master/p2_continuous-control)
 
 For this project, we train a double-jointed arm agent to follow a target location using Deep Distributed Policy Gradient (DDPG).
 
 ### Collaboration and Competition
->[p2_Continuous Control](https://github.com/wschacha/Courses/tree/master/Udacity/Deep_Reinforcement_Learning_Nanodegree/p3_collab-compet)
+>[p2_Continuous Control](https://github.com/helsinkipirate/drlnd_vorenus/tree/master/p3_collab-compet)
 
 For this project, we train a pair of agents to play tennis using DDPG with shared replay buffer.
 
