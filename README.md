@@ -42,7 +42,7 @@ python -m ipykernel install --user --name drlnd --display-name "drlnd"
 ## Projects
 
 ### Navigation
->[p1_navigation](https://github.com/wschacha/Courses/tree/master/Udacity/Deep_Reinforcement_Learning_Nanodegree/p1_navigation)
+>[p1_navigation](https://github.com/helsinkipirate/drlnd_vorenus/tree/master/p1_navigation)
 
 For this project, we train an agent to navigate and collect bananas in a large, square world using Deep Q-Network (DQN).
 
