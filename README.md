@@ -1,5 +1,4 @@
-# Udacity Deep Reinforcement Learning Project Submission
-submission assignments of deep reinforcement learning nano degree
+# Udacity Deep Reinforcement Learning Project
 
 ## Dependencies
 
