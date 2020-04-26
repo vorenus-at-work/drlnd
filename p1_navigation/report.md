@@ -51,7 +51,7 @@ The first two layers are activated with RELU functions.
 
 ## Plot of Rewards
 
-[R1]: ../../drlnd_vorenus/p1_navigation/banana_game_rewards.png "rewards"
+[R1]: banana_game_rewards.png "rewards"
 
 Environment solved in 425 episodes!     Average Score: 13.03
 The plot of rewards is shown below.
