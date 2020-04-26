@@ -19,7 +19,7 @@ The following report is written in three parts:
 - **Future Work**
 
 ## Learning Algorithm
-[A1]: ../../drlnd_vorenus/p1_navigation/DQN_algorithm.png "Algorithm1"
+[A1]: DQN_algorithm.png "Algorithm1"
 
 ### Implimentation
 The learning algorithm Deep Q-network is employed by the project. As a temporal-difference learning (TD-learning), deep Q-nework is to learn a action-value function, which is used to optimize the estimated future rewards. The algoirthm can be described as the following figure
@@ -51,7 +51,7 @@ The first two layers are activated with RELU functions.
 
 ## Plot of Rewards
 
-[R1]: ../../drlnd_vorenus/p1_navigation/banana_game_rewards.png "rewards"
+[R1]: banana_game_rewards.png "rewards"
 
 Environment solved in 425 episodes!     Average Score: 13.03
 The plot of rewards is shown below.
