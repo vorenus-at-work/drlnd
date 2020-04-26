@@ -43,9 +43,9 @@ The environment is considered solved, when the average (over 100 episodes) of th
 ### Getting Started
 
 ```diff
-- I have aready downloaded the following files in the repository, however, it may or may not work when you initialize the unity environment. If it does not work, please download again via the following links according to your platform.
+-I have already downloaded the following files in the repository, however, it may or may not work when you initialize the unity environment. If it does not work, please download again via the following links according to your platform.
 
-- The environment initialization error did happen to me when I train the models among different machines.
+-The environment initialization error did happen to me when I train the models among different machines.
 ``` 
 
 1. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
