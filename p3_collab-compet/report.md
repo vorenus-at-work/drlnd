@@ -36,7 +36,7 @@ The following report is written in three parts:
 
 Still, this project is implemented and started from DDPG project, with different tennis unity enviroment, rather than a gym environment. The difference is that `Tennis_solution.ipynb` requires multi-agent support. A lib supporting multiple agents is implented to generate multiple ddpg agents, besides a purely `ddpg_agent` lib. The operations of replay buffer is also changed into `ma_agent.py`, since both agents are using the same replay buffer. The shared replay buffer helps to ensure all the agents explore all the environment. The learning operation here is also called in the multiple agent library. When tuning, the batch size is set to 128 is enough for training.    
 
-Due to the "lockdown" of the city, we have not gpu around. The codes are running on different cpu machines, as well as the online workplace of udacity. The first one achieving the required score, is submitted to the github. The running jupyter notebook is 'Tennis_solution.ipynb'. It takes nearly 4800 episodes. 
+Due to the "lockdown" of the city, I have no gpu around. The codes are running on different cpu machines, as well as the online workplace of udacity. The first one achieving the required score, is submitted to the github. The running jupyter notebook is 'Tennis_solution.ipynb'. It takes nearly 4800 episodes. 
 
 Still, if the environment in the current folder cannot be initialized, new download according to the instruction in the readme.md is necessary. It happens when training the same codes on different machines.
 
